@@ -1,5 +1,4 @@
 package com.string2;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class DoubleChar {
