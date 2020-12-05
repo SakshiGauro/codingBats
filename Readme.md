@@ -1,1 +1,1 @@
-You can add emoji to your writing by typing :EMOJICODE:.
+CodingBats problems
