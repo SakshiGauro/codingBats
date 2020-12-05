@@ -1,4 +1,7 @@
 package com.string2;
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
 public class DoubleChar {
     public String doubleChar(String str) {
         String ans="";
@@ -11,8 +14,11 @@ public class DoubleChar {
     }
 
     public static void main(String[] args) {
+        Scanner input= new Scanner(System.in);
         DoubleChar obj=new DoubleChar();
-        System.out.println(obj.doubleChar("The") );
+        System.out.println("Enter a word");
+        String word= input.nextLine();
+        System.out.println(obj.doubleChar(word) );
     }
 
 }
