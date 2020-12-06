@@ -1,5 +1,4 @@
 package com.string2;
-
 import java.util.Scanner;
 
 public class bobThere {
