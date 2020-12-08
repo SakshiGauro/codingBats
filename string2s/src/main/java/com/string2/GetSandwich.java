@@ -10,7 +10,6 @@ public class GetSandwich {
         else
             return str.substring(first+5,last);
     }
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a word");
