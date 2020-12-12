@@ -1,4 +1,4 @@
-package String1s;
+package com.String1s;
 import java.util.Scanner;
 
 public class HelloName {
