@@ -1,5 +1,4 @@
 package com.array1;
-
 import java.util.Scanner;
 
 public class CommonEnd {
