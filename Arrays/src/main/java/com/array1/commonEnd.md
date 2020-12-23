@@ -6,4 +6,4 @@ commonEnd([1, 2, 3], [7, 3]) → true
 commonEnd([1, 2, 3], [7, 3, 2]) → false
 commonEnd([1, 2, 3], [1, 3]) → true
 ```
-https://codingbat.com/prob/p191991
+https://codingbat.com/prob/p191991 
