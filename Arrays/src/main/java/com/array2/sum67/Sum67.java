@@ -1,4 +1,4 @@
-package com.array2;
+package com.array2.sum67;
 
 import java.util.Arrays;
 import java.util.Scanner;
