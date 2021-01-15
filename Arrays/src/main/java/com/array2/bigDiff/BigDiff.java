@@ -1,4 +1,4 @@
-package com.array2;
+package com.array2.bigDiff;
 import java.util.Scanner;
 
 public class BigDiff {
