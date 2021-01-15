@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Arrays" />
         <module name="string2s" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Arrays" target="8" />
       <module name="string2s" target="8" />
     </bytecodeTargetLevel>
   </component>
