@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/codingBats.iml" filepath="$PROJECT_DIR$/.idea/codingBats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string2s/string2s.iml" filepath="$PROJECT_DIR$/string2s/string2s.iml" />
+    </modules>
+  </component>
+</project>
