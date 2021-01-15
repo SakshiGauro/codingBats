@@ -1,4 +1,4 @@
-package com.array2;
+package com.array2.centeredAverage;
 import java.util.Scanner;
 
 public class CenteredAverage {
