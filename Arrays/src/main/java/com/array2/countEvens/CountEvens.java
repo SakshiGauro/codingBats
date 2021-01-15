@@ -1,4 +1,4 @@
-package com.array2;
+package com.array2.countEvens;
 
 import java.util.Scanner;
 
