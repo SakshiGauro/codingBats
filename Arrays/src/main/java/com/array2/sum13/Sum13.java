@@ -1,4 +1,4 @@
-package com.array2;
+package com.array2.sum13;
 import java.util.Scanner;
 
 public class Sum13 {
