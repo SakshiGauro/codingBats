@@ -1,4 +1,4 @@
-package com.String1s;
+package com.String1s.ComboString;
 import java.util.Scanner;
 
 public class ComboString {
@@ -16,5 +16,6 @@ public class ComboString {
         String word2 = in.nextLine();
         ComboString obj = new ComboString();
         System.out.println(obj.comboString(word1, word2));
+
     }
 }
