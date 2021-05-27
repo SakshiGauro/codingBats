@@ -1,4 +1,4 @@
-package com.String1s;
+package com.String1s.ExtraEnd;
 import java.util.Scanner;
 
 public class ExtraEnd {
