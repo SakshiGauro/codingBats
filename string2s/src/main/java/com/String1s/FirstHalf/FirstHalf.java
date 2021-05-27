@@ -1,4 +1,4 @@
-package com.String1s;
+package com.String1s.FirstHalf;
 import java.util.Scanner;
 
 public class FirstHalf {
