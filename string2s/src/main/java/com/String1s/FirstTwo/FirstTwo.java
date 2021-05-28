@@ -1,4 +1,4 @@
-package com.String1s;
+package com.String1s.FirstTwo;
 import java.util.Scanner;
 
 public class FirstTwo {
