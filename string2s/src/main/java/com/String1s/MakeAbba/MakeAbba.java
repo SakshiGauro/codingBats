@@ -1,4 +1,4 @@
-package com.String1s;
+package com.String1s.MakeAbba;
 import java.util.Scanner;
 
 public class MakeAbba {
