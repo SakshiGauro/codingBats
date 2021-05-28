@@ -1,4 +1,4 @@
-package com.String1s;
+package com.String1s.Left2;
 
 import java.util.Scanner;
 
