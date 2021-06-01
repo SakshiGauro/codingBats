@@ -1,5 +1,5 @@
 package com.stringYak;
-import java.util.Scanner;
+import java.util.*;
 
 public class StringYak {
     public String stringYak(String str) {
